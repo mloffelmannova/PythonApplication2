@@ -1,0 +1,2 @@
+# Kalkulačka v pythonu :) 
+# gg
